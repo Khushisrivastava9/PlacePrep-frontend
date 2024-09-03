@@ -1,5 +1,5 @@
 .home {
-    background-image: url('D:\PlacePrep\frontend\src\pages\home\homei.png');
+    background-image: url('/homei.png');
     background-size: contain; /* Adjust the size of the background image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-position: 140% center;
