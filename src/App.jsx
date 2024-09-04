@@ -12,7 +12,7 @@ import Account from "./pages/account/Account";
 import { UserData } from "./context/UserContext";
 import Loading from "./components/loading/Loading";
 import Resources from "./pages/resources/Resources";
-import ResourceStudy from "./pages/resourcestudy/Resourcestudy";
+import ResourceStudy from "./pages/resourcestudy/ResourceStudy";
 import Lecture from "./pages/lecture/Lecture";
 import AdminDashbord from "./admin/Dashboard/AdminDashbord";
 import AdminResources from "./admin/Resources/AdminResources";
