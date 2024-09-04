@@ -113,7 +113,8 @@ Contributions are welcome! Please follow the steps below to contribute:
    ```bash
    This code can be directly used in your `README.md` file under the "Usage" and "Contributing" sections.
 
-
+## Support Me
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="khushisrivastava" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 
 
