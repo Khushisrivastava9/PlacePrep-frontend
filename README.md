@@ -114,7 +114,8 @@ Contributions are welcome! Please follow the steps below to contribute:
    This code can be directly used in your `README.md` file under the "Usage" and "Contributing" sections.
 
 ## Support Me
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="khushisrivastava" data-color="#BD5FFF" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=khushisrivastava&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/khushisrivastava)
+
 
 
 
