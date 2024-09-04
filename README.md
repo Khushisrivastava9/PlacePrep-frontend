@@ -75,28 +75,6 @@ This project is a Placement Preparation Platform built using the MERN (MongoDB, 
 
 Contributions are welcome! Please follow the steps below to contribute:
 
-1. **Fork the repository.**
-2. **Create a new branch**:
-   ```bash
-   git checkout -b feature-branch
-3. **## Usage
-
-### User:
-
-1. **Sign up and verify your email.**
-2. **Log in to access the resources.**
-3. **Browse and view available lectures and PDFs.**
-
-### Admin:
-
-1. **Log in to the admin panel.**
-2. **Add, update, or delete resources, lectures, and PDFs.**
-3. **Manage user accounts.**
-
-## Contributing
-
-Contributions are welcome! Please follow the steps below to contribute:
-
 1. **Fork the repository**
 2. **Create a new branch**
    ```bash
