@@ -10,9 +10,8 @@ This project is a Placement Preparation Platform built using the MERN (MongoDB, 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
