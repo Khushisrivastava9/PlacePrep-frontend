@@ -1,6 +1,5 @@
 # PlacePrep Project
 
-# Placement Preparation Platform
 
 This project is a Placement Preparation Platform built using the MERN (MongoDB, Express, React, Node.js) stack. The platform allows students to access various resources, such as lectures and PDFs, to aid in their placement preparation. It also features an admin panel for managing these resources and includes user authentication with email verification and password recovery features.
 
